@@ -16,11 +16,11 @@
 
 
 ## Approval Workflow
-- Step 1
-    - Sequential approval: Only [team.lead@company.com] approves first
+- Step 1: 
+    Sequential approval: Only [team.lead@company.com] approves first
 
-- Step 2
+- Step 2: 
     Parallel approval: Both:[finance.head@company.com,legal.head@company.com] must approve before moving on.
 
-- Step 3
+- Step 3: 
     Final sequential approval by: [ceo@company.com]
